@@ -1,2 +1,2 @@
-# Divination-Game
-Divination game with Python
+# Guessing-Game
+Guessing game with Python
